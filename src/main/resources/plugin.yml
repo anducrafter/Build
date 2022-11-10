@@ -1,0 +1,8 @@
+name: Build
+version: '${project.version}'
+main: ch.andu.build.Build
+authors: [ anducrafter ]
+description: Cracklive Build Plugin
+website: skysucht.com
+commands:
+  build:
